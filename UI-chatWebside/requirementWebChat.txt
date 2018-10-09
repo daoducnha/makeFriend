@@ -1,0 +1,11 @@
+version 1.0: write a website chat use:
+	angular 4 for gui
+	spring boot for create API
+	websocket for create chat room
+	postgre sql  to store database
+
+version 2.0
+	chang postgerSql to mongoDB 
+	add function video call
+	
+						
